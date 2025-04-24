@@ -21,7 +21,15 @@
     "lat": 53.652581,
     "lng": -2.628731,
     "description": "'First micropub in Chorley winning multiple CAMRA awards since 2014.'<br><br>63-67 Chapel Street <br> PR7 1BS",
-    "url": "/independents/list/shepherds/hall"
+    "url": "/independents/list/shepherds-hall"
+  },
+    {
+    "name": "Vestry",
+    "type": "Pubs & Bars",
+    "lat": 53.652624,
+    "lng": -2.629302,
+    "description": "'Cocktail Bar.'<br><br>55 Chapel Street <br> PR7 1BU",
+    "url": "/independents/list/vestry"
   }
 ]
 
