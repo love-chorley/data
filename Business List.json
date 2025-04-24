@@ -30,7 +30,16 @@
     "lng": -2.629302,
     "description": "'Cocktail Bar.'<br><br>55 Chapel Street <br> PR7 1BU",
     "url": "/independents/list/vestry"
-  }
+  },
+  {
+    "name": "Anise",
+    "type": "Shops",
+    "lat": 53.652603,
+    "lng": -2.629091,
+    "description": "'Natural crystals, unique gifts, aromatic fragrances and unusual jewellery from around the world'<br><br>61 Chapel Street <br> PR7 1BU",
+    "url": "/independents/list/anise"
+  },
+  
 ]
 
    
