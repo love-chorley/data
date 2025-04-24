@@ -1,4 +1,4 @@
-const businesses = [
+[
     {
              name: "Róandi Hair & Beauty",
              type: "Salons",
@@ -23,6 +23,6 @@ const businesses = [
             description: "'First micropub in Chorley winning multiple CAMRA awards since 2014.'<br><br>63-67 Chapel Street <br> PR7 1BS",
             url: "/independents/list/shepherds/hall"
           },
-         ];
+         ]
    
    
