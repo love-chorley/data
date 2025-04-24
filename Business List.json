@@ -1,28 +1,28 @@
 [
-    {
-             name: "Róandi Hair & Beauty",
-             type: "Salons",
-             lat: 53.652697,
-             lng: -2.630823,
-             description: "'Escape the Everyday' <br><br>27 Chapel Street <br> PR7 1BN",
-             url: "/independents/list/roandi"
-           },
-            {
-             name: "Reed’s Refillery",
-             type: "Shops",
-             lat: 53.652813,
-             lng: -2.632594,
-             description: "'Chorley’s Award-Winning Zero Waste Shop! '<br><br>56B Market Street <br> PR7 2SE",
-             url: "/independents/list/reeds"
-           },
-           {
-            name: "Shepherds Hall Ale House & Victoria Rooms",
-            type: "Pubs & Bars",
-            lat: 53.652581,
-            lng: -2.628731,
-            description: "'First micropub in Chorley winning multiple CAMRA awards since 2014.'<br><br>63-67 Chapel Street <br> PR7 1BS",
-            url: "/independents/list/shepherds/hall"
-          },
-         ]
-   
+  {
+    "name": "Róandi Hair & Beauty",
+    "type": "Salons",
+    "lat": 53.652697,
+    "lng": -2.630823,
+    "description": "'Escape the Everyday' <br><br>27 Chapel Street <br> PR7 1BN",
+    "url": "/independents/list/roandi"
+  },
+  {
+    "name": "Reed’s Refillery",
+    "type": "Shops",
+    "lat": 53.652813,
+    "lng": -2.632594,
+    "description": "'Chorley’s Award-Winning Zero Waste Shop!' <br><br>56B Market Street <br> PR7 2SE",
+    "url": "/independents/list/reeds"
+  },
+  {
+    "name": "Shepherds Hall Ale House & Victoria Rooms",
+    "type": "Pubs & Bars",
+    "lat": 53.652581,
+    "lng": -2.628731,
+    "description": "'First micropub in Chorley winning multiple CAMRA awards since 2014.'<br><br>63-67 Chapel Street <br> PR7 1BS",
+    "url": "/independents/list/shepherds/hall"
+  }
+]
+
    
